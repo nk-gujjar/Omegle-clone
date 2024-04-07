@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true, // Add this line to enable ES module interop
+      "module": "commonjs", // Set module resolution to commonjs
+      "target": "es6",
+      "strict": true,
+      "jsx":"react"
+    }
+  }
+  
